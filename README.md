@@ -22,7 +22,6 @@ La practica consiste en crear un servidor en node.js en las siguientes etapas:
 
 	7) Crear Dockerfile e implementar.
 
-***
 
 ##  Prerequisitos
 

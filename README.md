@@ -6,8 +6,6 @@
 		  Desarrollo Basado en Plataformas
 
 
-***
-
 La practica consiste en crear un servidor en node.js en las siguientes etapas:
 
 	1) Hola mundo básico.
@@ -26,7 +24,7 @@ La practica consiste en crear un servidor en node.js en las siguientes etapas:
 
 ***
 
- Prerequisitos
+##  Prerequisitos
 
 ***
 
@@ -34,7 +32,9 @@ Para ejecutar los programas debe de contar con alguna versión de Node.js
 
 A continuación se describen los pasos para descargar e instalar Node.js
 
+
  Instalando
+
 
 Para descargar e instalar Node.js se utiliza el comando:
 
@@ -45,7 +45,7 @@ Para actualizar Node.js, se utiliza el comando:
 	apt-get upgrate
 
 
- Corriendo pruebas
+## Corriendo pruebas
 
 ***
 
@@ -65,7 +65,7 @@ Para mostrar el mensaje del archivo file2.txt tenemos que escribir la dirección
 	localhost:4444/file2.txt
 
 
- Construido con
+## Construido con
 
 ***
 
@@ -73,7 +73,7 @@ Para mostrar el mensaje del archivo file2.txt tenemos que escribir la dirección
 	Node.js - Entorno para ejecutar JavaScript
 
 
- Contribuciones
+## Contribuciones
 
 ***
 
@@ -81,7 +81,7 @@ Para mostrar el mensaje del archivo file2.txt tenemos que escribir la dirección
 	 que imparte la materia de Desarrollo Basado en Plataformas
 
 
- Autores
+## Autores
 
 ***
 

@@ -46,6 +46,10 @@ Para ejecutar el servidor se usa el comando:
 
 	node [archivo]
 
+## Dockerhub
+
+	https://hub.docker.com/repository/docker/angelicagarcia/practica_3.4_dbp
+
 # Construido con
 
 	Atom - Editor de texto

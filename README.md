@@ -1,6 +1,4 @@
-## 3.4. Practica | Mi primer servidor
-
-***
+# 3.4. Practica | Mi primer servidor
 
 	Repositorio de la practica 3.4 de la materia:
 		  Desarrollo Basado en Plataformas
@@ -23,16 +21,14 @@ La practica consiste en crear un servidor en node.js en las siguientes etapas:
 	7) Crear Dockerfile e implementar.
 
 
-##  Prerequisitos
-
-***
+# Prerequisitos
 
 Para ejecutar los programas debe de contar con alguna versión de Node.js
 
 A continuación se describen los pasos para descargar e instalar Node.js
 
 
- Instalando
+## Instalando
 
 
 Para descargar e instalar Node.js se utiliza el comando:
@@ -41,48 +37,28 @@ Para descargar e instalar Node.js se utiliza el comando:
 
 Para actualizar Node.js, se utiliza el comando:
 
-	apt-get upgrate
+	apt-get update
 
 
-## Corriendo pruebas
-
-***
+# Corriendo pruebas
 
 Para ejecutar el servidor se usa el comando:
 
-	node app.js
+	node [archivo]
 
-Mientras el servidor se queda ejecutandose en la terminal, procedemos a abrir cualquier navegador
-instalado y se escribe la dirección:
-
-	localhost:4444
-
-donde se mostrara el mensaje del archivo file.txt
-
-Para mostrar el mensaje del archivo file2.txt tenemos que escribir la dirección:
-
-	localhost:4444/file2.txt
-
-
-## Construido con
-
-***
+# Construido con
 
 	Atom - Editor de texto
 	Node.js - Entorno para ejecutar JavaScript
 
 
-## Contribuciones
-
-***
+# Contribuciones
 
 	Luis Antonio Ramírez Martínez, profesor de la Universidad Autónoma de Chihuahua
 	 que imparte la materia de Desarrollo Basado en Plataformas
 
 
-## Autores
-
-***
+# Autores
 
 	 Norma Angélica García Martínez
 		329528

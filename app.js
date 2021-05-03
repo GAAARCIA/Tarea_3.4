@@ -1,7 +1,7 @@
 const http= require('http');
 const fs= require('fs');
 
-const data= fs.readFileSync('./WWW/myfile3.txt');
+const data= fs.readFileSync('./WWW/file3.txt');
 //http => (request, response)
 http.createServer((request, response)=>{
       response.writeHead(200, {"Content.Type": "text/plain"});

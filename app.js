@@ -8,7 +8,7 @@ const fs = require('fs');
 
 http.createServer((request, response)=>{
   console.log(request.url);
-  const file = request.url == '/' ? './WWW/file.txt' : `./WWW${request.url}`;
+  const file = request.url == '/' ? './WWW/index.html' : `./WWW${request.url}`;
   fs.readFile(file, (err,data)=>{
     if(err){
       response.writeHead(400, {"Content-Type" : "text/plain"});

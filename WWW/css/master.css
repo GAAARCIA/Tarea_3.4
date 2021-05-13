@@ -1,0 +1,20 @@
+p {
+  color: blue;
+}
+
+#titulo-principal {
+  color: red;
+  border-style: dotted;
+}
+
+.border {
+  border: 5px solid;
+}
+
+p {
+  color: green;
+}
+
+img[src]{
+  border: 5px solid;
+}

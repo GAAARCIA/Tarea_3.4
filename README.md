@@ -18,9 +18,6 @@ La practica consiste en crear un servidor en node.js en las siguientes etapas:
 
 	6) Agregar archivo README.md.
 
-	7) Crear Dockerfile e implementar.
-
-
 # Prerequisitos
 
 Para ejecutar los programas debe de contar con alguna versión de Node.js
@@ -45,10 +42,6 @@ Para actualizar Node.js, se utiliza el comando:
 Para ejecutar el servidor se usa el comando:
 
 	node [archivo]
-
-## Dockerhub
-
-	https://hub.docker.com/repository/docker/angelicagarcia/practica_3.4_dbp
 
 # Construido con
 

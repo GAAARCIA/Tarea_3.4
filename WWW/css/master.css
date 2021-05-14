@@ -1,9 +1,13 @@
+:root{
+  --color-texto: red;
+}
+
 p {
-  color: blue;
+  color: var(--color-texto);
 }
 
 #titulo-principal {
-  color: red;
+  color: var(--color-texto);
   border-style: dotted;
 }
 
@@ -11,10 +15,14 @@ p {
   border: 5px solid;
 }
 
-p {
-  color: green;
-}
-
 img[src]{
   border: 5px solid;
+}
+
+#parrafo-importante{
+  border-style: dashed;
+  padding-bottom: 200px;
+  padding-left: 80px;
+  padding-right: 400px;
+  padding-top: 150px;
 }
